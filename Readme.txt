@@ -1,0 +1,1 @@
+Data from monolinguals for novel noun learning experiments in Aravind et al. “Fast mapping word meanings across trials: young children forget all but their first guess”
